@@ -1,1 +1,7 @@
 
+{
+  "name": "AI-Powered Recruitment & Candidate Management System (AIRCMS)",
+  "description": "An AI-powered Salesforce-style recruitment platform designed to manage the end-to-end hiring lifecycle with intelligent candidate scoring, automated screening, and Agentforce AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
